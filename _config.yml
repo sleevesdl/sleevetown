@@ -24,12 +24,12 @@ favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/fav
 navigation:
   - name: home
     url: https://sleevesdl.github.io/sleevetown/
-  - name: about
-    url: https://sleevesdl.github.io/sleevetown/about
-  - name: 
-    url: /archive
   - name: tags
     url: https://sleevesdl.github.io/sleevetown/tags
+  - name: archieve
+    url: https://sleevesdl.github.io/sleevetown/archive
+  - name: about
+    url: https://sleevesdl.github.io/sleevetown/about
 
 # 每页的文章数
 paginate: 10
