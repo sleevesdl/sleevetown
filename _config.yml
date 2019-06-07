@@ -14,7 +14,7 @@ description: blank your mind, kid, blank your mind.
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://avatars0.githubusercontent.com/u/37199206?s=460&v=4
+avatar: https://i.loli.net/2019/06/07/5cfa5dbb5c57617695.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
@@ -22,14 +22,14 @@ favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/fav
 
 # 菜单中的按钮
 navigation:
-  - name:
-    url:
-  - name:
-    url: /about
-  - name:
+  - name: home
+    url: https://sleevesdl.github.io/sleevetown/
+  - name: about
+    url: https://sleevesdl.github.io/sleevetown/about
+  - name: 
     url: /archive
-  - name:
-    url: /tags
+  - name: tags
+    url: https://sleevesdl.github.io/sleevetown/tags
 
 # 每页的文章数
 paginate: 10
