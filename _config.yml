@@ -98,3 +98,5 @@ exclude:
   - CNAME
 
 excerpt_separator: ---
+
+theme: jekyll-theme-dinky
