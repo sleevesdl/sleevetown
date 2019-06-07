@@ -22,17 +22,17 @@ favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/fav
 
 # 菜单中的按钮
 navigation:
-  - name: home
-    url: /
-  - name: about
+  - name:
+    url:
+  - name:
     url: /about
-  - name: archive
+  - name:
     url: /archive
-  - name: tags
+  - name:
     url: /tags
 
 # 每页的文章数
-paginate: 5
+paginate: 10
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer links:
@@ -51,12 +51,12 @@ disqus: loffer #shortname
 google_analytics:
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
-url: 
+url: https://sleevesdl.github.io/sleevetown/
 
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: /LOFFER-sleevetown
+baseurl: /sleevetown
 
 
 #
